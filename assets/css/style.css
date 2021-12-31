@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Fredoka+One&family=Pacifico&family=Press+Start+2P&display=swap');
+
+
+/* Google Fonts
+font-family: 'Chelsea Market', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+*/
+h1{
+    font-family: 'Press Start 2P', cursive;
+    background-color: lime;
+    text-align: center;
+    line-height: 2;
+}
+p{
+    font-family: 'Chelsea Market', cursive;
+}
+p em{
+  text-shadow: 2px 1px red;  
+}
+a{
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    color: #000;
+}
